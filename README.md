@@ -19,6 +19,6 @@ Big-O (n²)
 
 18 sayısı average case kapsamına girer.
 
-Patika.dev Adresim
+[sads](https://github.com/Cmsr27/Insertion-sort-project/edit/main/README.md)
 
 www.patika.dev
